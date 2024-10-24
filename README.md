@@ -14,3 +14,5 @@ efficace sur deux machines virtuelles vulnérables, puis nous réaliserons les p
 suivantes sans rentrer dans le détail pour l'instant.
 
 Metasploitable 2 (Ubuntu) : https://sourceforge.net/projects/metasploitable/files/Metasploitable2/
+
+Utilisation de l'exploit dirtycow de @firefart : https://github.com/firefart/dirtycow 
